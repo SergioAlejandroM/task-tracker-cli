@@ -2,7 +2,7 @@
 
 **Task Tracker CLI** es una herramienta de línea de comandos que permite gestionar tareas de manera eficiente. Diseñada para simplificar el seguimiento de tus actividades, esta aplicación es ideal para organizar lo que necesitas hacer, lo que ya has completado y en qué estás trabajando actualmente.
 
-### https://github.com/SergioAlejandroM/task-tracker-cli.git
+### https://github.com/SergioAlejandroM/task-tracker-cli
 
 ---
 
